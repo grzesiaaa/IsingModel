@@ -4,7 +4,7 @@
  
 ### Description
 
-Metropolis algorithm for Ising Model without magnetic pole on two-dimensional quadratic grid using Monte Carlo method. Plots present spins configurations, trajectories for different grid sizes, magnetization and  magnetic susceptibility as a functions of temperature.
+Metropolis algorithm for Ising Model without magnetic pole on two-dimensional quadratic grid using Monte Carlo method. Plots present spins configurations, trajectories for different grid sizes, magnetization and  magnetic susceptibility as a functions of temperature. Exact instructions are in file instructions.pdf.
 
 ### Technologies
 - **Jupyter Notebook** - notebook for writing a code
